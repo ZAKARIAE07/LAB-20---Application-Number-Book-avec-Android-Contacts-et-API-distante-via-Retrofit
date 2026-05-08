@@ -79,5 +79,5 @@ Dans `RetrofitClient.java`, l'URL de base est configurée sur `http://10.0.2.2/`
 4. Cliquez sur **"Synchroniser vers le serveur"** pour sauvegarder les contacts en ligne.
 5. Utilisez le champ de recherche et le bouton **"Rechercher"** pour interroger la base distante.
 
-## Auteur
-Développé dans le cadre d'un Lab Android (Lab20).
+<img width="181" height="388" alt="1" src="https://github.com/user-attachments/assets/15b9d0c9-929b-4cb0-9c01-0065c184a1f6" />
+
